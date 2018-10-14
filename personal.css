@@ -1,0 +1,75 @@
+#header-text {
+    text-align: center;
+    border-width: 3px;
+    padding: 10px;
+    font-family: 'Noto Serif', serif;
+}
+
+.sub-header {
+	text-align: center;
+	border: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.progress {
+	font-size: 1rem;
+}
+
+.progress-bar {
+	background-color: #1d2124;
+}
+
+.btn-secondary {
+	background-color: #1d2124;
+	border-color: #1d2124;
+}
+
+.col{
+	text-align: center;
+}
+
+#copyright {
+    text-align: center;
+}
+
+/* Glyph, by Harry Roberts */
+
+hr.style-eight {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
+
+/* unvisited link */
+a:link {
+    color: #212529;
+}
+
+/* visited link */
+a:visited {
+    color: #212529;
+}
+
+/* mouse over link */
+a:hover {
+    color: #212529;
+}
+
+/* selected link */
+a:active {
+    color: #212529;
+}
